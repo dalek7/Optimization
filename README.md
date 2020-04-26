@@ -26,12 +26,13 @@ With Jacobian
 Levenberg-Marquardt returned in 15 iter, reason 2, sumsq 0.447505 [136.774]
 Best fit parameters: 4.98591	0.09484077	0.9286256
 
+Without Jacobian
+Levenberg-Marquardt returned in 95 iter, reason 2, sumsq 0.447505 [136.774]
+Best fit parameters: 4.98591	0.09484074	0.9286256
+```
+
 
 ## Installation
 ```
 sudo apt-get install libblas-dev liblapack-dev
-```
-Without Jacobian
-Levenberg-Marquardt returned in 95 iter, reason 2, sumsq 0.447505 [136.774]
-Best fit parameters: 4.98591	0.09484074	0.9286256
 ```
