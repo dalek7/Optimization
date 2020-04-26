@@ -2,7 +2,7 @@
 
 Test of Levenberg-Marquardt nonlinear least squares algorithms
 
-* Results from known Jacobian (i.e., Jacobian of expfunc())
+* Results from known Jacobian (the first derivative) of the function
 <img width=500px src='levmarTest/out/figure1.png' />
 
 ## Run examples
